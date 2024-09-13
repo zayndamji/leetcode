@@ -10,8 +10,8 @@
 var reverse = function(x) {
   let num = Array.from(x.toString()).reverse();
   if (num[num.length-1] == '-') {
-      num.unshift('-');
-      num = num.slice(0, -1);
+    num.unshift('-');
+    num = num.slice(0, -1);
   }
 
   num = parseInt(num.join(''));
