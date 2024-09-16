@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/minimum-time-difference/
 // Language: JavaScript
-// Runtime: 65 MS
-// Memory: 52.42 MB
 
 /**
  * @param {string[]} timePoints

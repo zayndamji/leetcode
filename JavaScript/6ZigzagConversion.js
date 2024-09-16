@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/zigzag-conversion/
 // Language: JavaScript
-// Runtime: 78 MS
-// Memory: 53.88 MB
 
 /**
  * @param {string} s

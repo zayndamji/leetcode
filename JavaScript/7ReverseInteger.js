@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/reverse-integer/
 // Language: JavaScript
-// Runtime: 60 MS
-// Memory: 52.71 MB
 
 /**
  * @param {number} x

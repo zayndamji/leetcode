@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/two-sum/
 // Language: C++
-// Runtime: 48 MS
-// Memory: 12.97 MB
 
 #include "vector"
 

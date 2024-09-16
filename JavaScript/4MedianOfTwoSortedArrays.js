@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
 // Language: JavaScript
-// Runtime: 79 MS
-// Memory: 55.21 MB
 
 /**
  * @param {number[]} nums1

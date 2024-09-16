@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 // Language: JavaScript
-// Runtime: 320 MS
-// Memory: 68.51 MB
 
 /**
  * @param {string} s

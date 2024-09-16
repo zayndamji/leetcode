@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/add-two-numbers/
 // Language: JavaScript
-// Runtime: 110 MS
-// Memory: 53.94 MB
 
 /**
  * Definition for singly-linked list.

@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/longest-common-prefix/
 // Language: JavaScript
-// Runtime: 61 MS
-// Memory: 50.44 MB
 
 /**
  * @param {string[]} strs

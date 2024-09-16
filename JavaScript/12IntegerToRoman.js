@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/integer-to-roman/
 // Language: JavaScript
-// Runtime: 115 MS
-// Memory: 53.77 MB
 
 /**
  * @param {number} num

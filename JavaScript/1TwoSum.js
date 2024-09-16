@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/two-sum/
 // Language: JavaScript
-// Runtime: 100 MS
-// Memory: 49.64 MB
 
 /**
  * @param {number[]} nums
