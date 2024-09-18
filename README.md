@@ -1,3 +1,7 @@
+# Current LeetCode Statistics
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/zd_codes)
+
 # How to Navigate
 
 At the root level, there is a folder for each language in which I have solved Leetcode problems. \
