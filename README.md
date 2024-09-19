@@ -1,6 +1,6 @@
 # Current LeetCode Statistics
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/zd_codes)
+![LeetCode Stats](https://leetcard.jacoblin.cool/zd_codes?theme=dark&font=IBM%20Plex%20Sans%20Devanagari&ext=activity)
 
 # How to Navigate
 
