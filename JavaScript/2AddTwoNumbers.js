@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/add-two-numbers/
-// Language: JavaScript
 
 /**
  * Definition for singly-linked list.

@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/longest-common-prefix/
-// Language: JavaScript
 
 /**
  * @param {string[]} strs

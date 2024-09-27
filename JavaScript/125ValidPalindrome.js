@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/valid-palindrome/
-// Language: JavaScript
 
 /**
  * @param {string} s

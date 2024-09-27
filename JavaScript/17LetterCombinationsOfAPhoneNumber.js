@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-// Language: JavaScript
 
 /**
  * @param {string} digits

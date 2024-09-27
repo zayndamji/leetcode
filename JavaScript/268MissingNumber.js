@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/missing-number/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

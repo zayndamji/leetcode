@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/palindrome-number/
-// Language: JavaScript
 
 /**
  * @param {number} x

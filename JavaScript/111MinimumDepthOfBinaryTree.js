@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/minimum-depth-of-binary-tree/
-// Language: JavaScript
 
 /**
  * Definition for a binary tree node.

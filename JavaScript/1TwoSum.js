@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/two-sum/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

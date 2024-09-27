@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/uncommon-words-from-two-sentences/
-// Language: JavaScript
 
 /**
  * @param {string} s1

@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/valid-parentheses/
-// Language: JavaScript
 
 /**
  * @param {string} s

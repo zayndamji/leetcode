@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/pascals-triangle/
-// Language: JavaScript
 
 /**
  * @param {number} numRows

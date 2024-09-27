@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/count-and-say/
-// Language: JavaScript
 
 /**
  * @param {number} n

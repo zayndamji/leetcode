@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/majority-element/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

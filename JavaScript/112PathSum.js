@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/path-sum/
-// Language: JavaScript
 
 /**
  * Definition for a binary tree node.

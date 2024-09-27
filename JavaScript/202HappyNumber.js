@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/happy-number/
-// Language: JavaScript
 
 /**
  * @param {number} n

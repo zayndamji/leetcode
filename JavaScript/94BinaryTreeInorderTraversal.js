@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/binary-tree-inorder-traversal/
-// Language: JavaScript
 
 /**
  * Definition for a binary tree node.

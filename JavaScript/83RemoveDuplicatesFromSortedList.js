@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-// Language: JavaScript
 
 /**
  * Definition for singly-linked list.

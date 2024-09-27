@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
-// Language: JavaScript
 
 /**
  * @param {string} s

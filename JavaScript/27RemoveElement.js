@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/remove-element/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

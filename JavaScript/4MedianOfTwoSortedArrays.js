@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums1

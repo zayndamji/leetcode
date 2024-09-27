@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/search-insert-position/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/merge-two-sorted-lists/
-// Language: JavaScript
 
 /**
  * Definition for singly-linked list.

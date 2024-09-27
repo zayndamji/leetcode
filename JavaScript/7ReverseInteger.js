@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/reverse-integer/
-// Language: JavaScript
 
 /**
  * @param {number} x

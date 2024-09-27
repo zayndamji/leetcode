@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/minimum-time-difference/
-// Language: JavaScript
 
 /**
  * @param {string[]} timePoints

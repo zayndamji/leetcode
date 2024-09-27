@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/length-of-last-word/
-// Language: JavaScript
 
 /**
  * @param {string} s

@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/move-zeroes/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

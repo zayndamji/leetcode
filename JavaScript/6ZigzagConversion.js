@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/zigzag-conversion/
-// Language: JavaScript
 
 /**
  * @param {string} s

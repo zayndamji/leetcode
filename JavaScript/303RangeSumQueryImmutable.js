@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/range-sum-query-immutable/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

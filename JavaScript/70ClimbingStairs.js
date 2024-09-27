@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/climbing-stairs/
-// Language: JavaScript
 
 /**
  * @param {number} n

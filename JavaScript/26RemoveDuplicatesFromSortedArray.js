@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-// Language: JavaScript
 
 /**
  * @param {number[]} nums

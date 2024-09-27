@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/sqrtx/
-// Language: JavaScript
 
 /**
  * @param {number} x

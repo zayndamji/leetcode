@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/excel-sheet-column-number/
-// Language: JavaScript
 
 /**
  * @param {string} columnTitle

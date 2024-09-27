@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/integer-to-roman/
-// Language: JavaScript
 
 /**
  * @param {number} num
