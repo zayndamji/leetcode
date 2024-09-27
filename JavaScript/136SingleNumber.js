@@ -51,3 +51,23 @@ var singleNumber = function(nums) {
     }
   }
 };
+
+/*
+Submission 3:
+Time Complexity O(N)
+Space Complexity O(1)
+*/
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var singleNumber = function(nums) {
+  let bitwiseNum = nums[0];
+
+  for (let i = 1; i < nums.length; i++) {
+    bitwiseNum = nums[i] ^ bitwiseNum;
+  }
+
+  return bitwiseNum;
+};
