@@ -14,5 +14,6 @@ var permute = function(nums) {
       permutations.push([nums[i]].concat(permuteRes[j]));
     }
   }
+  
   return permutations;
 };
